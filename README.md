@@ -43,3 +43,5 @@
     Done alot of processing on client side.
     Used PNGs
     
+# Screenshot of Categories Page
+<img width="1366" height="655" alt="Screenshot 2023-03-07 233915" src="https://github.com/user-attachments/assets/badda4e8-67e8-4d9a-a49c-9a541b5df333" />
